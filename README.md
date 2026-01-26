@@ -1,4 +1,4 @@
 # codingbyC
 This is my first  Git -repository
 <br>
-Author:YOGESH CHOUDHARI
+Author:YOGESH CHOUDHARY
